@@ -3,7 +3,7 @@
 
 
 
-<img src="https://github.com/andreaspattichis/Contest-Pacman-Capture-the-Flag-EUTOPIA/assets/63289392/cd32914f-7b98-4268-9600-3048d7f1280b" alt="image" style="width: 75%; float: left; margin-right: 10px;"/>
+<img src="https://github.com/andreaspattichis/Contest-Pacman-Capture-the-Flag-EUTOPIA/assets/63289392/cd32914f-7b98-4268-9600-3048d7f1280b" alt="image" style="width: 50%; float: center; margin-right: 10px;"/>
 
 
 ---
