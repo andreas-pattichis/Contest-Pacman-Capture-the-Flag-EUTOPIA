@@ -50,7 +50,7 @@ The `/versions/` folder contains Python code for teams' implementations of defen
 
 ---
 ## Versions In Detail:
-### Version 1 (v1.py) Detailed Description
+### Version 1 (v1.py) Description
 #### A. OffensiveQLearningAgent
 - **Strategy**: Leverages Q-learning for dynamic action selection to optimize offensive gameplay.
 - **Trained Weights Loading**: Capable of loading pre-trained weights, enhancing decision-making from past experiences.
@@ -71,7 +71,7 @@ The `/versions/` folder contains Python code for teams' implementations of defen
 - **Weighted Features**: Prioritizes certain defensive actions through feature weighting, like maintaining defense and targeting invaders.
 - **Defensive Strategies**: Designs to be a formidable defender, intercepting enemy Pac-Man and securing the territory.
 
-## Version 2 (v2.py) Detailed Description
+## Version 2 (v2.py) Description
 ### A. OffensiveQLearningAgent
 - **Strategy**: Utilizes Q-learning to dynamically select actions for optimizing offensive gameplay.
 - **Trained Weights Loading**: Capable of loading weights from a file, utilizing past learning experiences to enhance decision-making.
