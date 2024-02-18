@@ -1,33 +1,34 @@
-# EUTOPIA Pacman Contest    <img src="https://github.com/andreaspattichis/Contest-Pacman-Capture-the-Flag-EUTOPIA/assets/63289392/0281e11e-a884-49b9-a97c-784b1d00c622" alt="image" style="width: 8%; vertical-align: middle;"/>
-
-
-
-
-<img src="https://github.com/andreaspattichis/Contest-Pacman-Capture-the-Flag-EUTOPIA/assets/63289392/cd32914f-7b98-4268-9600-3048d7f1280b" alt="image" style="width: 50%; float: center; margin-right: 10px;"/>
-
+# EUTOPIA Pacman Contest <img src="https://github.com/andreaspattichis/Contest-Pacman-Capture-the-Flag-EUTOPIA/assets/63289392/0281e11e-a884-49b9-a97c-784b1d00c622" alt="image" style="width: 8%; vertical-align: middle;"/>
 
 ---
+
+![EUTOPIA Contest Banner](https://github.com/andreaspattichis/Contest-Pacman-Capture-the-Flag-EUTOPIA/assets/63289392/cd32914f-7b98-4268-9600-3048d7f1280b)
+
+---
+
 ## Introduction
 
 The EUTOPIA Pacman Contest is an exciting team-based competition where participants from different universities create agents to play a multiplayer capture-the-flag version of Pacman. It's a collaborative project based on Berkeley's CS188 Intro to AI course and has been adapted for this contest by UPF, with contributions from RMIT and UoM. The entire codebase is in Python and is modular, catering to different levels of participation.
 
 ---
+
 ## Contest Framework
 
 There are three main components to the framework:
 
 - **Agent Development**: Teams will create their own repositories for their agents using the provided basic template for behavior.
-- **Local Tournament**: Scripts for running custom local tournaments are includexd.
+- **Local Tournament**: Scripts for running custom local tournaments are included.
 - **UPF Tournament**: The official module used by UPF to organize tournaments. Participants do not need to contribute to this module.
 
 ---
+
 ## Rules Overview
+
 <p align="center">
   <img src="https://github.com/andreaspattichis/Contest-Pacman-Capture-the-Flag-EUTOPIA/assets/63289392/77cf8503-fb4f-4a60-9c90-f77477ac0b5e" alt="image" style="width: 30%;"/>
   <img src="https://github.com/andreaspattichis/Contest-Pacman-Capture-the-Flag-EUTOPIA/assets/63289392/a331b61d-dff2-4f54-9c87-dc6305b5eb46" alt="image" style="width: 30%;"/>
   <img src="https://github.com/andreaspattichis/Contest-Pacman-Capture-the-Flag-EUTOPIA/assets/63289392/5f23367d-e2c0-4aee-bce1-9df7b9d3adbe" alt="image" style="width: 30%;"/>
 </p>
-
 
 - **Layout**: The map is divided into two halves, with agents needing to defend and capture food on their respective sides.
 - **Scoring**: Points are earned by returning food pellets to your side.
@@ -36,12 +37,14 @@ There are three main components to the framework:
 - **Computation Time**: Timely decisions are crucial, with strict rules for computation time to ensure smooth tournament flow.
 
 ---
+
 ## Repository Contents
 
 The `/versions/` folder contains Python code for teams' implementations of defensive and offensive agents. To use these, you need to:
 
 1. Clone the GitHub project for the EUTOPIA contest:
-   'git clone https://github.com/aig-upf/pacman-eutopia'
+   ```bash
+   git clone https://github.com/aig-upf/pacman-eutopia
 2. Replace `team_name_X` with your team's name.
 3. Add the python file of the version you want to test and experiment with and then follow the instructions of the EUTOPIA's GitHub Repo.
 
