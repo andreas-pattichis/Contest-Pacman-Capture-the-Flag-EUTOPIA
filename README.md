@@ -23,9 +23,9 @@ There are three main components to the framework:
 ---
 ## Rules Overview
 <p align="center">
-  <img src="https://github.com/andreaspattichis/Contest-Pacman-Capture-the-Flag-EUTOPIA/assets/63289392/9d97ad19-1cb3-4094-82f7-d689d7ceead8" alt="image" style="width: 30%;"/>
-  <img src="https://github.com/andreaspattichis/Contest-Pacman-Capture-the-Flag-EUTOPIA/assets/63289392/1e318a12-d304-4d8a-8dc3-e387b09d3f81" alt="image" style="width: 30%;"/>
-  <img src="https://github.com/andreaspattichis/Contest-Pacman-Capture-the-Flag-EUTOPIA/assets/63289392/d7f8193a-bbed-44f7-827c-dccdd6b698f7" alt="image" style="width: 30%;"/>
+  <img src="https://github.com/andreaspattichis/Contest-Pacman-Capture-the-Flag-EUTOPIA/assets/63289392/77cf8503-fb4f-4a60-9c90-f77477ac0b5e" alt="image" style="width: 30%;"/>
+  <img src="https://github.com/andreaspattichis/Contest-Pacman-Capture-the-Flag-EUTOPIA/assets/63289392/a331b61d-dff2-4f54-9c87-dc6305b5eb46" alt="image" style="width: 30%;"/>
+  <img src="https://github.com/andreaspattichis/Contest-Pacman-Capture-the-Flag-EUTOPIA/assets/63289392/5f23367d-e2c0-4aee-bce1-9df7b9d3adbe" alt="image" style="width: 30%;"/>
 </p>
 
 
