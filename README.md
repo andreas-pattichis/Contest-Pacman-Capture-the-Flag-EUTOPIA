@@ -1,4 +1,5 @@
-# EUTOPIA Pacman Contest ![image](https://github.com/andreaspattichis/Contest-Pacman-Capture-the-Flag-EUTOPIA/assets/63289392/0281e11e-a884-49b9-a97c-784b1d00c622)
+# EUTOPIA Pacman Contest <img src="https://github.com/andreaspattichis/Contest-Pacman-Capture-the-Flag-EUTOPIA/assets/63289392/0281e11e-a884-49b9-a97c-784b1d00c622" alt="image" style="width: 4%; vertical-align: middle;"/>
+
 
 <img src="https://github.com/andreaspattichis/Contest-Pacman-Capture-the-Flag-EUTOPIA/assets/63289392/cd32914f-7b98-4268-9600-3048d7f1280b" alt="image" style="width: 75%; float: left; margin-right: 10px;"/>
 
