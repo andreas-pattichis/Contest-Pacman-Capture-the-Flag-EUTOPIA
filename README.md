@@ -99,4 +99,3 @@ The `/versions/` folder contains Python code for teams' implementations of defen
 ## Getting Started
 
 Download the source code, install dependencies, and refer to the `Getting Started` section to run a game. Use provided options to customize the game execution, record games, and review logs and replays.
-
